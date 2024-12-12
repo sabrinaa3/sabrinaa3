@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align= "center">
+  <h1>Welcome to my GitHub Profile! 👋 I'm Sabrina</h1>
+</div>
 
-<!--
-**sabrinaa3/sabrinaa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a first-year Engineering Science student at Simon Fraser University, currently completing the common core courses before specializing in Computer Engineering with a focus on Software Development in my second year. My goal is to secure a co-op position in 2026.
 
-Here are some ideas to get you started:
+Alongside my studies, I have a passion for creating side projects (found here) to deepen my expertise in the software aspects of Computer Engineering. Welcome to my personal project journey!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+<!--languages I know-->
+![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5 & CSS3 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![MATLAB Badge](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white)
+
+<!--My Git stats-->
+![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinaa3&show_icons=true&theme=default&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaa3&layout=compact&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
+
+
+## Socials
+<div align="left">
+  <body>Feel free to connect with me!</body>
+  <br>
+  <a href="https://www.linkedin.com/in/sabrina-allan-367876327" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discord.com/users/1075585587697942538" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</div>
