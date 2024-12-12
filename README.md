@@ -18,6 +18,7 @@ Alongside my studies, I have a passion for creating side projects (found here) t
 
 <!--My Git stats-->
 ![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabrinaa3&show_icons=true&theme=default&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaa3&layout=compact&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
 
 
