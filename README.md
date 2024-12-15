@@ -22,14 +22,8 @@ Alongside my studies, I have a passion for creating side projects (found here) t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaa3&layout=compact&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
 
 
-## Socials
+## Feel free to connect with me!
 <div align="left">
-  <body>Feel free to connect with me!</body>
-  <br>
   <a href="https://www.linkedin.com/in/sabrina-allan-367876327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://discord.com/users/1075585587697942538" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</div>
+  
