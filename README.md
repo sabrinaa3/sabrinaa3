@@ -2,9 +2,11 @@
   <h1>Welcome to my GitHub Profile! 👋 I'm Sabrina</h1>
 </div>
 
-I am a first-year Engineering Science student at Simon Fraser University, currently completing the common core courses before specializing in Computer Engineering with a focus on Software Development in my second year. My goal is to secure a co-op position in 2026.
+I am a first-year Civil Engineering student at BCIT. My goal is to secure a co-op position in summer 2026.
 
-Alongside my studies, I have a passion for creating side projects (found here) to deepen my expertise in the software aspects of Computer Engineering. Welcome to my personal project journey!
+Alongside my studies, I have a passion for creating side projects (found here and on my website: https://sabrinaallan.ca/). 
+
+Welcome to my personal project journey!
 
 ## Tech Stack
 <!--languages I know-->
