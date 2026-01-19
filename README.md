@@ -2,11 +2,7 @@
   <h1>Welcome to my GitHub Profile! 👋 I'm Sabrina</h1>
 </div>
 
-I am a first-year Civil Engineering student at BCIT. My goal is to secure a co-op position in summer 2026.
-
-Alongside my studies, I have a passion for creating side projects (found here and on my website: https://sabrinaallan.ca/). 
-
-Welcome to my personal project journey!
+I am a first-year Civil Engineering student at BCIT. 
 
 ## Tech Stack
 <!--languages I know-->
@@ -24,7 +20,7 @@ Welcome to my personal project journey!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaa3&layout=compact&bg_color=fff5f7&border_color=ff1493&title_color=b22222&text_color=8b0000&icon_color=8b0000)
 
 
-## Feel free to connect with me!
+## Connect with me on LinkedIn
 <div align="left">
   <a href="https://www.linkedin.com/in/sabrina-allan-367876327" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
